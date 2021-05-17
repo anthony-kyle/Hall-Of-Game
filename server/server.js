@@ -33,8 +33,8 @@ server.use(express.json());
 server.use(express.static(path.join(__dirname, "./public")));
 
 // Define Routes
-server.use("/api/v1", gameRoutes);
-server.use("/api/v1/user", userRoutes);
+// server.use("/api/v1", gameRoutes);
+// server.use("/api/v1/user", userRoutes);
 
 // Export Server
 module.exports = server;

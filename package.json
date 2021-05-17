@@ -1,10 +1,10 @@
 {
-  "name": "boilerplate-react-webpack",
-  "version": "0.2.2",
-  "description": "A webpack React starter",
-  "repository": "https://github.com/dev-academy-challenges/boilerplate-react-webpack.git",
+  "name": "Hall-Of-Game",
+  "version": "0.0.1",
+  "description": "A board game tournament points tracker",
+  "repository": "https://github.com/anthony-kyle/Hall-Of-Game.git",
   "main": "server/index.js",
-  "author": "EDA",
+  "author": "Anthony McGrath",
   "license": "ISC",
   "scripts": {
     "client": "webpack-dev-server --hot --inline",
